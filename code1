@@ -1,0 +1,10 @@
+D:\git use\nlp-in-practice>git branch
+* master
+
+D:\git use\nlp-in-practice>git pull origin cv
+From https://github.com/kavgan/nlp-in-practice
+ * branch            cv         -> FETCH_HEAD
+Already up to date.
+
+D:\git use\nlp-in-practice>git branch
+* master
